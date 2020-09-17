@@ -29,7 +29,7 @@ size less than its minimum memory requirement. The turnaround time of the progra
 execution (which is time zero for all programs in this problem), and the time that the
 program completes execution.
 
-##INPUT
+## INPUT
 The input data will contain multiple test cases. Each test case begins with a line
 containing a pair of integers m and n. The number m specifies the number of
 regions into which primary memory has been partitioned (1 <= m<= 10), and n
@@ -67,4 +67,6 @@ sample output, and print a blank line after each test case.
 If there are multiple program orderings or assignments to memory regions that yield
 the same minimum average turnaround time, give one of the schedules with the
 minimum average turnaround time.
+
+![Capture](https://user-images.githubusercontent.com/49120359/93498874-f3f63700-f92f-11ea-902e-c5da120a7297.PNG)
 
